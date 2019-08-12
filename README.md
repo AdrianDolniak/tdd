@@ -1,5 +1,5 @@
 # Test Driven Development (TDD) with Python
 
-Run tests:
+Running tests:
 
     $ python tc_program.py 
